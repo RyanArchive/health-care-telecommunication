@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="mainColor">#1673AE</color> <!-- Medium Dark Cyan Blue -->
+
+    <color name="cyanBlue">#458FCD</color>
+    <color name="mediumDarkCyanBlue">#005F98</color>
+
+    <color name="veryLightGray">#EFEFEF</color>
+</resources>

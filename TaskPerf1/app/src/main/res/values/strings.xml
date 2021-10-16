@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">TaskPerf1</string>
+
+    <string name="main_connect">Connect</string>
+    <string name="main_consultation">Consultation</string>
+    <string name="main_hello">Hello,</string>
+    <string name="main_help_title">How can we help you?</string>
+    <string name="main_home">Home</string>
+    <string name="main_name">Ryan Aristosa</string>
+    <string name="main_notifications">Notifications</string>
+    <string name="main_pre_consultation">Pre-Consultation</string>
+    <string name="main_results">Results</string>
+
+</resources>
