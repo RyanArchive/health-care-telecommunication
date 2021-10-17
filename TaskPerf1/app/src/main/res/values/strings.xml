@@ -2,14 +2,20 @@
 
     <string name="app_name">TaskPerf1</string>
 
+    <string name="main_appointment">Appointment</string>
     <string name="main_connect">Connect</string>
-    <string name="main_consultation">Consultation</string>
+    <string name="main_diagnostic">Diagnostic</string>
+    <string name="main_health_guide">Health Guide</string>
     <string name="main_hello">Hello,</string>
-    <string name="main_help_title">How can we help you?</string>
     <string name="main_home">Home</string>
+    <string name="main_meal">Meal</string>
     <string name="main_name">Ryan Aristosa</string>
-    <string name="main_notifications">Notifications</string>
-    <string name="main_pre_consultation">Pre-Consultation</string>
-    <string name="main_results">Results</string>
+    <string name="main_others">Others</string>
+    <string name="main_pre_consultation">Pre- Consultation</string>
+    <string name="main_prescription">Prescription</string>
+    <string name="main_records">Records</string>
+    <string name="main_services">Services</string>
+    <string name="main_sleep_meditation">Sleep Meditation</string>
+    <string name="main_workout">Workout</string>
 
 </resources>
